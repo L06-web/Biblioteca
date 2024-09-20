@@ -17,4 +17,4 @@ public class Principal {
         System.out.println("O livro \"" + livro.getTitulo() + "\" foi emprestado para o usuário " + user.getNome() +
                 " na data " + emp.getdataemprestimo() + " com devolução em " + emp.getDataDevolucao() + ".");
     }
-}//
+}
